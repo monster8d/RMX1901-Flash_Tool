@@ -16,7 +16,7 @@ Last tested on RUI2 F.04
 ➕ Debloat your Device <br>
 
 ### N.B.: 
-Who want to Debloat their device with a custom Script they can easily edit the debloat_list.sh file in the path (./tools/debloat_list.sh)
+Who want to Debloat their device with a custom Script they can easily edit the debloat_list.sh file in the path (./files/debloat_list.sh)
 
 ### How to use?
 Just replace the Release file (Flash tool.exe) in your Directory
