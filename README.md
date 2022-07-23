@@ -21,4 +21,7 @@ Who want to Debloat their device with a custom Script they can easily edit the d
 ### How to use?
 Just replace the Release file (Flash tool.exe) in your Directory
 
-Thank You. <3
+##SPOILERS
+![untitled](https://user-images.githubusercontent.com/67144582/180589579-8f58fd32-8d69-448e-bc35-8c6368daa6c0.JPG)
+
+Ok! Bye...
